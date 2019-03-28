@@ -2,6 +2,8 @@
 
 set -x
 
+dotnet clean
+
 dotnet restore
 
 echo "Restore Completed Successfully ... for Build Id ${BUILD_ID}"
