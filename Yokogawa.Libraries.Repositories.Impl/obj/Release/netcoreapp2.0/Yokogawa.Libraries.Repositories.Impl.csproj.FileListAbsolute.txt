@@ -1,0 +1,15 @@
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Repositories.Impl/bin/Release/netcoreapp2.0/Yokogawa.Libraries.Repositories.Impl.deps.json
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Repositories.Impl/bin/Release/netcoreapp2.0/Yokogawa.Libraries.Repositories.Impl.dll
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Repositories.Impl/bin/Release/netcoreapp2.0/Yokogawa.Libraries.Repositories.Impl.pdb
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Repositories.Impl/bin/Release/netcoreapp2.0/Yokogawa.Libraries.Models.dll
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Repositories.Impl/bin/Release/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.dll
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Repositories.Impl/bin/Release/netcoreapp2.0/Yokogawa.Libraries.Repositories.Interfaces.dll
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Repositories.Impl/bin/Release/netcoreapp2.0/Yokogawa.Libraries.Models.pdb
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Repositories.Impl/bin/Release/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.pdb
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Repositories.Impl/bin/Release/netcoreapp2.0/Yokogawa.Libraries.Repositories.Interfaces.pdb
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Repositories.Impl/obj/Release/netcoreapp2.0/Yokogawa.Libraries.Repositories.Impl.csproj.CoreCompileInputs.cache
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Repositories.Impl/obj/Release/netcoreapp2.0/Yokogawa.Libraries.Repositories.Impl.AssemblyInfoInputs.cache
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Repositories.Impl/obj/Release/netcoreapp2.0/Yokogawa.Libraries.Repositories.Impl.AssemblyInfo.cs
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Repositories.Impl/obj/Release/netcoreapp2.0/Yokogawa.Libraries.Repositories.Impl.csproj.CopyComplete
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Repositories.Impl/obj/Release/netcoreapp2.0/Yokogawa.Libraries.Repositories.Impl.dll
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Repositories.Impl/obj/Release/netcoreapp2.0/Yokogawa.Libraries.Repositories.Impl.pdb

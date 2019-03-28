@@ -1,0 +1,5 @@
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/CRMSystemCoreWeb
+--output-path=obj/Release/netcoreapp2.0/
+--application-name=CRMSystemCoreWeb
+--content-root=/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/CRMSystemCoreWeb
+--file=

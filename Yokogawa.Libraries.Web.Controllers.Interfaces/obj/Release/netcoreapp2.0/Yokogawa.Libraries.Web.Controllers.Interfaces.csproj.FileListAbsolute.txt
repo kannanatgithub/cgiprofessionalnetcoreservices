@@ -1,0 +1,12 @@
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Interfaces/bin/Release/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Interfaces.deps.json
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Interfaces/bin/Release/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Interfaces.dll
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Interfaces/bin/Release/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Interfaces.pdb
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Interfaces/bin/Release/netcoreapp2.0/Yokogawa.Libraries.Models.dll
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Interfaces/bin/Release/netcoreapp2.0/Yokogawa.Libraries.Models.pdb
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Interfaces/obj/Release/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Interfaces.csprojAssemblyReference.cache
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Interfaces/obj/Release/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Interfaces.csproj.CoreCompileInputs.cache
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Interfaces/obj/Release/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Interfaces.AssemblyInfoInputs.cache
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Interfaces/obj/Release/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Interfaces.AssemblyInfo.cs
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Interfaces/obj/Release/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Interfaces.csproj.CopyComplete
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Interfaces/obj/Release/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Interfaces.dll
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Interfaces/obj/Release/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Interfaces.pdb

@@ -1,0 +1,9 @@
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Models/bin/Release/netcoreapp2.0/Yokogawa.Libraries.Models.deps.json
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Models/bin/Release/netcoreapp2.0/Yokogawa.Libraries.Models.dll
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Models/bin/Release/netcoreapp2.0/Yokogawa.Libraries.Models.pdb
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Models/obj/Release/netcoreapp2.0/Yokogawa.Libraries.Models.csprojAssemblyReference.cache
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Models/obj/Release/netcoreapp2.0/Yokogawa.Libraries.Models.csproj.CoreCompileInputs.cache
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Models/obj/Release/netcoreapp2.0/Yokogawa.Libraries.Models.AssemblyInfoInputs.cache
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Models/obj/Release/netcoreapp2.0/Yokogawa.Libraries.Models.AssemblyInfo.cs
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Models/obj/Release/netcoreapp2.0/Yokogawa.Libraries.Models.dll
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Models/obj/Release/netcoreapp2.0/Yokogawa.Libraries.Models.pdb

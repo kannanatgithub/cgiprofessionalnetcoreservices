@@ -1,0 +1,12 @@
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Interfaces/bin/Release/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.deps.json
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Interfaces/bin/Release/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.dll
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Interfaces/bin/Release/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.pdb
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Interfaces/bin/Release/netcoreapp2.0/Yokogawa.Libraries.Models.dll
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Interfaces/bin/Release/netcoreapp2.0/Yokogawa.Libraries.Models.pdb
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Interfaces/obj/Release/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.csprojAssemblyReference.cache
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Interfaces/obj/Release/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.csproj.CoreCompileInputs.cache
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Interfaces/obj/Release/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.AssemblyInfoInputs.cache
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Interfaces/obj/Release/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.AssemblyInfo.cs
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Interfaces/obj/Release/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.csproj.CopyComplete
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Interfaces/obj/Release/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.dll
+/home/ec2-user/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Interfaces/obj/Release/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.pdb
