@@ -29,7 +29,7 @@ pipeline {
     }
     stage('Run Container') {
       steps {
-        sh 'bash ./jenkins/scripts/run-containers.sh'
+        sh 'bash ./jenkins/scripts/run-container.sh'
         input(message: 'All fine?', ok: 'Yes, continue to cleanup')
         sh 'bash ./jenkins/scripts/cleanup-containers.sh'
       }
